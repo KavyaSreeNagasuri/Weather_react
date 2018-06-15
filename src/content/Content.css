@@ -1,0 +1,10 @@
+.main{
+    width:600px;
+    height: 500px;
+    align-self: center;
+    border: solid 1px black;
+    /* display: block; */
+    margin-top: 100px;
+    left: 30%;
+    position: absolute;
+}

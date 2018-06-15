@@ -1,0 +1,8 @@
+.box-center{
+  margin:10px;
+  display: flex;
+  justify-content: center;
+}
+.box1{
+  display: block;
+}
